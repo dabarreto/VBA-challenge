@@ -8,12 +8,12 @@ In this repository you will find:
 
 ### Final Results:
 ## 2014 Stock Data
-![2014](IResults by Year/2014.jpg)
+![2014](https://github.com/dabarreto/VBA-challenge/blob/main/Results%20by%20Year/2014.JPG?raw=true)
 
 ## 2015 Stock Data
-![2015](Results by Year/2015.jpg)
+![2015](https://github.com/dabarreto/VBA-challenge/blob/main/Results%20by%20Year/2015.JPG?raw=true)
 ## 2016 Stock Data
-![2016](Results by Year/2016.jpg)
+![2016](https://github.com/dabarreto/VBA-challenge/blob/main/Results%20by%20Year/2016.JPG?raw=true)
 
 
 
